@@ -1,5 +1,7 @@
 # JSON vs JSON5 benchmark results
 
+Forked from skad0/json_vs_json5_perfomance to benchmark with up-to-date dependencies
+
 Ran index.js at 2025-09-17 01:24:24
 
 ```
